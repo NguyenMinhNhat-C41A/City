@@ -36,4 +36,4 @@ Credits:
         - Lee Jackson: “Plasma”
         - John Weekley: “Outer Darkness”
 
-![alt text](https://github.com/NguyenMinhNhat-C41A/City/blob/main/223505.png?raw=true)
+![Screenshot 2024-03-23 223505](https://github.com/NguyenMinhNhat-C41A/City/assets/104690276/18c84a08-0308-4134-bdec-e38880f11fab)
